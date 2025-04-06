@@ -1,7 +1,15 @@
-## Hi there 👋
+# Hi there 👋
+
+## 🚀 Technology stack
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,solidity,react,bootstrap,java,mysql,rust,c,nodejs,html,css,figma,vscode,git,github&perline=8)
+
+## 📫 How to reach me
+
+[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/diego-da-giau)
 
 <!--
-**ddg22/ddg22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Icons: https://github.com/LelouchFR/skill-icons
 
 Here are some ideas to get you started:
 
